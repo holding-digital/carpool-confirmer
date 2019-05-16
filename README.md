@@ -4,6 +4,8 @@ Aplicativo Android para verificação de caronas.
 > NOTA: O código desenvolvido nesse teste é de propriedade total do Desenvolvedor.
 > Não será utilizado pelo bynd em nenhuma hipótese.
 
+# Especificação do Projeto:
+
 ## Tela de Confirmação - Motorista
 
 Como motorista, ao finalizar uma carona, devo confirmar a viagem junto aos meus caroneiros.
@@ -43,5 +45,5 @@ Fluxo:
   - Backend serveless (AWS ou google).
 
 ## Confirmação de Carona:
-    - Motorista deve ter ao menos 1 caroneiro
-    - Caroneiro e motorista devem estar no mesmo raio de proximidade ao confirmar localização.
+  - Motorista deve ter ao menos 1 caroneiro
+  - Caroneiro e motorista devem estar no mesmo raio de proximidade ao confirmar localização.
