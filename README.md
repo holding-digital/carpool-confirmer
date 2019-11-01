@@ -43,7 +43,14 @@ Fluxo:
 ## Requisitos:
   - Aplicativo Android React Native;
   - Backend serveless (AWS ou GCP).
-
+  
 ## Confirmação de Carona:
   - Motorista deve ter ao menos 1 caroneiro
   - Caroneiro e motorista devem estar no mesmo raio de proximidade ao confirmar localização.
+  
+  
+## Entregáveis
+  - Link do repositório no github;
+  - README.md com instruções de como rodar seu projeto e pré requisitos de instalação;
+  - APK do aplicativo no repositório do github.
+
