@@ -49,8 +49,8 @@ Fluxo:
   - Caroneiro e motorista devem estar no mesmo raio de proximidade ao confirmar localização.
   
   
-## Entregáveis
+## Entregáveis:
   - Link do repositório no github;
   - README.md com instruções de como rodar seu projeto e pré requisitos de instalação;
-  - APK do aplicativo no repositório do github.
+  - APK do aplicativo android no repositório do github.
 
